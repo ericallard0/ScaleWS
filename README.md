@@ -1,5 +1,6 @@
 ScaleWS
 =======
+#[Slides](http://ericallard0.github.io/ScaleWS)
 
 > Get and process data acquired from the scale (Withings WS50)
 
@@ -79,4 +80,4 @@ Download & extract [the dump DB](https://raw.githubusercontent.com/Fedonono/Scal
 ```shell
 mongorestore --noIndexRestore
 ```
-##[Slides](http://fedonono.github.io/ScaleWS)
+
