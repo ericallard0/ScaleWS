@@ -1,6 +1,7 @@
 ScaleWS
 =======
-#[Slides](http://ericallard0.github.io/ScaleWS)
+
+###[Slides](http://ericallard0.github.io/ScaleWS)
 
 > Get and process data acquired from the scale (Withings WS50)
 
